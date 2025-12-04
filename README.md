@@ -32,7 +32,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="[https://linkedin.com/in/mahmudullah al labib](https://www.linkedin.com/in/mahmudullah-al-labib-728214393/)" target="blank">
+  <a href="https://linkedin.com/in/mahmudullah al labibhttps://www.linkedin.com/in/mahmudullah-al-labib-728214393/https://www.linkedin.com/in/mahmudullah-al-labib-728214393/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://fb.com/assult" target="blank">
